@@ -1,6 +1,6 @@
 # Gracious Ehi
 
-I build complete software products by myself: the apps, the backend, the database, the AI and the tests. I've built multi-tenant SaaS for gyms and small businesses, native iPhone apps with AI companions, a multi-faith companion that answers only from reviewed scripture, a compliance assessment tool, a Rust desktop tool that works at the operating-system level, my own harness for AI coding, an AI marketing platform and a care marketplace.
+I build complete software products: the apps, the backend, the database, the AI and the tests. I've built multi-tenant SaaS for gyms and small businesses, native iPhone apps with AI companions, a multi-faith companion that answers only from reviewed scripture, a compliance assessment tool, a Rust desktop tool that works at the operating-system level, my own harness for AI coding, an AI marketing platform and a care marketplace.
 
 I'm Ikhine Gracious Osezuwa, a founder and engineer based in Slovenia. I work with Claude Code and Codex.
 
