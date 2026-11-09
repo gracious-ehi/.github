@@ -100,7 +100,9 @@ Built with Next.js 15, React 19, Supabase (auth, and Postgres with row-level sec
 
 Software that helps a private clinic stop losing patients and revenue.
 
-It follows each patient from first enquiry to a booked visit, recalls patients who are due back, fills cancelled slots from a waitlist and shows where revenue is being missed. An AI receptionist answers the phone in English or Slovenian, and outgoing messages and ads pass a medical-advertising compliance check before they are sent. It connects to the clinic's booking and billing systems.
+<img src="images/clinic-01-service-lines.png" alt="Clinic Revenue OS service-lines Overview for the Northside Medical Clinic demo: obesity and weight management, dermatology and mole checks, aesthetic and laser, ultrasound diagnostics, and physio, ortho and spine, with the workspace checklist" height="400"> <img src="images/clinic-02-operating-overview.png" alt="Clinic Revenue OS operating Overview for the Northside Medical Clinic demo: the Operating Room, then Find demand, Match capacity, Route the work and Protect the clinic" height="400"> <img src="images/clinic-03-daily-os.png" alt="Clinic Revenue OS daily operating system for the Northside Medical Clinic demo: today's clinic priorities, open appointment slots and a review-first approval gate" height="400">
+
+It follows each patient from first enquiry to a booked visit, recalls patients who are due back, fills cancelled slots from a waitlist and shows where revenue is being missed. An AI receptionist answers the phone in English or the preferred language, and outgoing messages and ads pass a medical-advertising compliance check before they are sent. It connects to the clinic's booking and billing systems.
 
 Built with TypeScript, Hono, React (Vite), Drizzle on Neon Postgres, Better Auth and Zod, with a voice service on Twilio, Deepgram speech-to-text and Azure text-to-speech.
 
