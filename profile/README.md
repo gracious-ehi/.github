@@ -52,7 +52,7 @@ Built with Next.js, Expo (React Native), Neon Postgres, SQLite and Cloudflare R2
 
 A GLP-1 companion on the App Store: doses, refills, weight, meals and a report for the doctor.
 
-<img src="images/ehi-today.png" alt="Ehi: App Store ad — Your GLP-1 journey, connected, showing the Today screen with weight trend" width="230">
+<img src="images/ehi-today.png" alt="Ehi: App Store ad contact sheet showing all ten screenshots" width="230">
 
 It logs each dose with injection-site rotation, shows when the next refill is due, follows weight and side-effect trends, scans meals with the camera, explains health documents in plain language and builds a report for the doctor. Ehi, the AI companion, checks in morning and evening and answers in the user's own language. Health logs stay on the phone and in the user's private iCloud, and the AI only receives what the user agrees to send.
 
@@ -64,7 +64,7 @@ Built with SwiftUI, SwiftData, StoreKit 2, HealthKit, App Attest and Sign in wit
 
 A menopause companion on the App Store that takes every symptom seriously.
 
-<img src="images/maya-conversation.png" alt="Maya: App Store ad — Menopause, made more understandable, showing the Today screen" width="230">
+<img src="images/maya-conversation.png" alt="Maya: App Store ad contact sheet showing all ten screenshots" width="230">
 
 It tracks hot flashes, more than 20 symptoms, sleep, mood, bleeding and HRT, including schedules for patches and cyclical treatment. It explains health results (the text is read on the phone, and only the part the user confirms is sent), helps prepare for appointments and builds a doctor-ready report. The knowledge hub holds 241 cards in 26 categories, and Maya, the AI companion, starts by taking dismissed symptoms seriously.
 
