@@ -20,13 +20,17 @@ Built with Next.js 16, TypeScript, Neon Postgres with row-level security between
 
 ## Tools for building with AI
 
-### Wipeproof
+### Sozo
 
 Never lose important work to an AI agent again.
 
-When an agent runs `rm -rf`, `git reset --hard` or `Remove-Item`, your files skip the Trash and are gone for good. Wipeproof catches every delete at the operating-system level, keeps an encrypted copy in a cloud bin on Backblaze B2, and you restore it from the desktop app. It works below the agent, so it protects you from every program on the machine, and only you can empty the bin. In a stress test it saved a correct copy of all 1,000,000 files.
+<img src="images/sozo-landing.jpg" alt="Sozo landing page: a way back from an agent's mistake, ready for Mac and waiting for Apple" height="400">
+
+When an agent runs `rm -rf`, `git reset --hard` or `Remove-Item`, your files skip the Trash and are gone for good. Sozo catches deletes at the operating-system level and keeps an encrypted copy in a cloud bin on Backblaze B2 that you can restore from the desktop app. It works below the agent, so it protects you from every program on the machine, and only you can empty the bin.
 
 Built with an 11-crate Rust workspace that forbids unsafe code, macOS Endpoint Security, a Tauri and React desktop app, and an account service in Next.js with Better Auth and Postgres.
+
+[sozo.hejmuse.com](https://sozo.hejmuse.com/)
 
 ### AI Multimodal Harness
 
@@ -141,7 +145,7 @@ If I have given you read access, this is where each product lives.
 | Repository | Product |
 | --- | --- |
 | `fitforge` | FitForge |
-| `wipeproof` | Wipeproof |
+| `wipeproof` | Sozo |
 | `ai-multimodal-harness` | AI Multimodal Harness |
 | `faith-companion` | Faith Companion |
 | `faith-companion-early-foundation` | The first version of Faith Companion |
