@@ -24,7 +24,7 @@ Built with Next.js 16, TypeScript, Neon Postgres with row-level security between
 
 Never lose important work to an AI agent again.
 
-<img src="images/sozo-03-settings.png" alt="Sozo settings: retention period, protection and account for this computer" height="400"> <img src="images/sozo-04-protection-setup.png" alt="Sozo protection setup: account connected and the recovery kit" height="400"> <img src="images/sozo-05-bin.png" alt="Sozo recovery bin: deleted files listed with a Recover action for each" height="400"> <img src="images/sozo-06-bin-restore-complete.png" alt="Sozo recovery bin showing restore complete, with the cloud copy retained" height="400"> <img src="images/sozo-07-recover-file.png" alt="Sozo recover a file: verified details, restored filename, destination folder and Restore file" height="400">
+<img src="images/sozo-landing.jpg" alt="Sozo landing page: a way back from an agent's mistake, ready for Mac and waiting for Apple" height="400">
 
 When an agent runs `rm -rf`, `git reset --hard` or `Remove-Item`, your files skip the Trash and are gone for good. Sozo catches deletes at the operating-system level and keeps an encrypted copy in a cloud bin on Backblaze B2 that you can restore from the desktop app. It works below the agent, so it protects you from every program on the machine, and only you can empty the bin.
 
