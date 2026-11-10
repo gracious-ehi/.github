@@ -1,8 +1,12 @@
-# Gracious Ehi
+# Ikhine Gracious Osezuwa
 
-I build complete software products: the apps, the backend, the database, the AI and the tests. I've built multi-tenant SaaS for gyms and small businesses, native iPhone apps with AI companions, a multi-faith companion that answers only from reviewed scripture, a compliance assessment tool, a Rust desktop tool that works at the operating-system level, my own harness for AI coding, an AI marketing platform and a care marketplace.
+**Founder & Software Engineer**
 
-I'm Ikhine Gracious Osezuwa, a founder and engineer based in Slovenia. I work with Claude Code and Codex.
+I design and build software products across web, mobile, and desktop, with responsibility for the full system: application architecture, backend services, databases, AI integration, and automated testing.
+
+My work spans multi-tenant SaaS, healthcare applications, dedicated hospital and clinic management platforms, AI companions, compliance software, marketing platforms, and marketplaces. I also build developer tools, including my own AI coding harness, and systems software in Rust.
+
+Some of these products are already publicly available, including apps on the App Store. The projects featured here are a selection of what I’ve built.
 
 The code is private, so this page shows what each product does and how it's built. If you're reviewing my work, ask me for read access.
 
