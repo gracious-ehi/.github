@@ -1,6 +1,6 @@
 # Ikhine Gracious Osezuwa
 
-**Founder & Software Engineer**
+**Software Engineer**
 
 I design and build software products across web, mobile, and desktop, with responsibility for the full system: application architecture, backend services, databases, AI integration, and automated testing.
 
